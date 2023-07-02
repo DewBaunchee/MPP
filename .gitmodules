@@ -13,3 +13,6 @@
 [submodule "TestsGenerator"]
 	path = TestsGenerator
 	url = https://github.com/DewBaunchee/TestsGenerator
+[submodule "MPPExamTasks"]
+	path = MPPExamTasks
+	url = https://github.com/DewBaunchee/MPPExamTasks
