@@ -1,0 +1,15 @@
+[submodule "AssemblyBrowser"]
+	path = AssemblyBrowser
+	url = https://github.com/DewBaunchee/AssemblyBrowser
+[submodule "DependencyInjectionContainer"]
+	path = DependencyInjectionContainer
+	url = https://github.com/DewBaunchee/DependencyInjectionContainer
+[submodule "ExecutionTracer"]
+	path = ExecutionTracer
+	url = https://github.com/DewBaunchee/ExecutionTracer
+[submodule "Faker"]
+	path = Faker
+	url = https://github.com/DewBaunchee/Faker
+[submodule "TestsGenerator"]
+	path = TestsGenerator
+	url = https://github.com/DewBaunchee/TestsGenerator
